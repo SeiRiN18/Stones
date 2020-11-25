@@ -1,0 +1,23 @@
+table,th,td {
+	color:white,background-color:black;
+	border: 2px solid black;
+	margin: 5px;
+	padding: 5px;
+	text-shadow: 1px 1px 4px blue;}
+	table {width:400px;
+		height: 400px;
+	}
+
+
+.days {
+	background-color:rgb(0, 255, 255)
+}
+.sas { background-color: white }
+.time {background-color: pink
+}
+.Subjects {background-color: purple;}
+.Subjects {font-size: 20px}
+.Subjects:hover , .Subjects:active {font-size: 30px;
+background-color: green;
+color:white;
+}
