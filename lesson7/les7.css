@@ -1,0 +1,53 @@
+.header {
+	width: 100%;
+	height: 130px;
+	background: linear-gradient(to bottom, #ff0000 0%, #ffffff 100%);
+	border: 2px black;
+	position: center;
+	font-size: 150px;
+
+}
+.downer {
+	width: 100%;
+	height: 130px;
+	display: flex;
+}
+.downer1 {
+	background: linear-gradient(to bottom, #66ffcc 0%, #ff9900 100%);
+}
+.container {
+	margin: 0 auto;
+	width: 1170px;
+}
+.middle {
+	width: 100%;
+	height: 200px;
+	 display: flex;
+}
+.middle1 {
+	background: linear-gradient(to bottom, #ffffff 0%, #000066 100%);
+	width: 50%;
+	height: 200px;
+	border: 2px  black;
+}
+.middle2 { background: linear-gradient(to bottom, #ffffff 0%, #000066 100%);           width: 50%;
+           height: 200px;
+           border: 2px  black;
+          
+}
+.downer1 {
+	background: linear-gradient(to bottom, #000066 0%, #663300 100%);
+	
+		width: 33.3%;
+	height: 130px;
+}
+.downer2 {
+	background: linear-gradient(to bottom, #000066 0%, #ffff00 100%);
+	width: 33.3%;
+	height: 130px;
+}
+.downer3 {
+	background: linear-gradient(to bottom, #000066 0%, #00ff00 100%);
+	width: 33.3%;
+	height: 130px;
+}
