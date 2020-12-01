@@ -1,6 +1,6 @@
 .osnova {
 	position: relative;
-	border:1px solid black;
+
 	background: linear-gradient(to bottom, #6600ff 0%, #ffcc00 100%);
 	width: 800px;
 	height: 800px;
@@ -36,4 +36,8 @@ bottom: 70px;
 	right: 85px;
 	bottom: 390px;
 
+}
+.osnova:hover {
+background: linear-gradient(to bottom, #9900ff 0%, #ff6600 100%);
+transform: translate3d( 500px, 0px, 0px);
 }
