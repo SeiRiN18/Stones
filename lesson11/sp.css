@@ -1,0 +1,111 @@
+.osnova {
+	display: flex;
+	width: 1170px;
+	height: 1100px;
+
+}
+.deystvo {
+	width:100% ;
+	height: 100%;
+	display: flex;
+	flex-direction: row;	
+	justify-content: space-around;
+
+}
+.cap {position: relative;
+	width: 270px;
+	height: 140px;
+	border-radius: 5px;
+    background: linear-gradient(to bottom, #33ccff 0%, #cc66ff 100%);
+    top: 10px;
+}
+.img {position: relative;
+	width: 50%;
+	top: -15px;
+
+}
+.text {
+	font-weight: bold;
+	position: absolute;
+	font-size: 15px;
+	left: 130px;
+	top:20px;
+	color: white;
+}
+.pd1 {
+	position: absolute;
+	font-size: 10px;
+top:55px;
+	color: white;
+}
+.iron {
+ position: relative;
+	width: 270px;
+	height: 140px;
+	border-radius: 5px;
+	background: linear-gradient( to bottom, #e52d27 0%, #b31217 100%);
+	top: 10px;
+}
+.pd2 {
+		position: absolute;
+	font-size: 10px;
+    top: 25px;
+	color: white;
+}
+.text1 {
+		position: absolute;
+	font-size: 15px;
+	color: white;
+	font-weight: bolder;
+
+}
+.img1 {position: relative;
+	width: 50%;
+	top: -18px;
+}
+.img2{position: relative;
+	width: 50%;
+	top: -20px;
+}
+.black {position: relative;
+	width: 270px;
+	height: 140px;
+	border-radius: 5px;
+	background: linear-gradient( to bottom, #000 0%, #61045F 100%);
+	top: 10px;
+}
+.text2{
+	position: absolute;
+	font-size: 15px;
+	color: white;
+	font-weight: bolder;
+}
+.pd3 {
+	position: absolute;
+	font-size: 10px;
+	color: white;
+	top: 25px;
+}
+.spid {position: relative;
+	width: 270px;
+	height: 140px;
+	border-radius: 5px;
+	background: linear-gradient( to bottom, #e52d27 0%, #000 100%);
+	top: 10px;
+}
+.img3 {position: relative;
+	width: 50%;
+	top: -24px;
+}
+.text3{
+	position: absolute;
+	font-size: 15px;
+	color: white;
+	font-weight: bolder;
+}
+.pd4 {
+	position: absolute;
+	font-size: 10px;
+	color: white;
+	top: 25px;
+}
