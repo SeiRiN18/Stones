@@ -1,0 +1,96 @@
+.form {
+	width: 1000px;
+	height: 100px;
+	background-color: grey;
+}
+.name {
+	color: red;
+	font-size: 50px;
+}
+#name {
+	width: 400px;
+}
+.search {
+	height: 25px;
+	border: 1px solid black;
+	border-radius: 5px;
+	color: green;
+}
+.search:hover{
+	color: red;
+}
+.button {
+
+	color: green;
+	z-index: 1;
+}
+.button:hover{
+	color: red;
+	z-index: 1;
+}
+.osnova {
+	width: 100%;
+	height: 1000px;
+	background: linear-gradient(to bottom, #000099 0%, #800000 100%);
+}
+.kar {position: absolute;
+	width: 1500px;
+	height: 500px;
+	transform: rotate(48deg);
+	left: 350px;
+	top:200px;
+	z-index: 1;
+}
+.gif
+{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	top: 600px;
+	left: 900px;
+	transform: rotate(-115deg);
+	z-index: 0;
+	-webkit-transform: rotate(360deg);  
+        -moz-transform: rotate(360deg); 
+        -ms-transform: rotate(360deg);  
+        -o-transform: rotate(360deg);  
+          transform: rotate(360deg);  
+        -moz-animation-name: gif;
+        -moz-animation-duration: 77s;
+        -webkit-animation-name: gif;
+        -webkit-animation-duration: 77s;
+ 
+        -moz-animation-timing-function: linear;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-direction: normal;
+        -moz-animation-delay: 0;
+        -moz-animation-play-state: running;
+        -moz-animation-fill-mode: forwards;
+ 
+        -webkit-animation-timing-function: linear;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-direction: normal;
+        -webkit-animation-delay: 0;
+        -webkit-animation-play-state: running;
+        -webkit-animation-fill-mode: forwards;
+ }
+ @-webkit-keyframes gif {
+    0% {
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+    }
+}
+@-moz-keyframes gif {
+    0% {
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+    }
+}
