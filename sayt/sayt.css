@@ -1,0 +1,269 @@
+body{
+	background-color: #e3e3e3;
+	display: block;
+	width: 1900px;
+	height: 1300px;
+	font-family: 'Scheherazade New', serif;
+}
+h1{
+	position: absolute;
+}
+#works{
+	position: relative;
+	left: 781px;
+	font-size: 45px;
+}
+#here{
+	position: relative;
+	left: 725px;
+	font-size: 22px;
+	top: -30px;
+}
+.kvadrat1{
+	background-color: white;
+	position: relative;
+	width: 1275px;
+	height: 700px;
+	left: 300px;
+}
+.pryam1{
+	width: 300px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    box-shadow: 3px 3px 7px 0px;
+    border-radius: 5px;
+    top: 100px;
+    background-color: white;
+}
+.pryam2{
+	    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 500px;
+    box-shadow: 3px 3px 7px 0px;
+    border-radius: 5px;
+    top: -99px;
+    background-color: white;
+}
+.pryam3{
+	width: 300px;
+	height: 200px;
+	position: relative;
+	left: 872px;
+	box-shadow: 3px 3px 7px 0px;
+	border-radius: 5px;
+	top: -300px;
+	background-color: white;
+}
+.pryam4{
+	width: 300px;
+	height: 200px;
+	position: relative;
+	left: 100px;
+	box-shadow: 3px 3px 7px 0px;
+	border-radius: 5px;
+	top: -200px;
+	background-color: white;
+}
+.pryam5{
+	width: 300px;
+	height: 200px;
+	position: relative;
+	left: 500px;
+	box-shadow: 3px 3px 7px 0px;
+	border-radius: 5px;
+	top: -400px;
+	background-color: white;
+}
+#spr1{
+	position: relative;
+left: 400px;
+font-size: 30px;
+top: 100px;
+z-index: 2;
+}
+.pryam1:hover{
+	box-shadow: 3px 3px 10px 0px;
+	background: linear-gradient(to bottom, #666699 -66%, #cdd0d4 21%);
+}
+.pryam2:hover{
+	box-shadow: 3px 3px 10px 0px;
+	background: linear-gradient(to bottom, #666699 -66%, #cdd0d4 21%);
+}
+.pryam3:hover{
+	box-shadow: 3px 3px 10px 0px;
+	background: linear-gradient(to bottom, #666699 -66%, #cdd0d4 21%);}
+.pryam4:hover{
+	box-shadow: 3px 3px 10px 0px;
+	background: linear-gradient(to bottom, #666699 -66%, #cdd0d4 21%);
+}
+.pryam5:hover{
+	box-shadow: 3px 3px 10px 0px;
+	background: linear-gradient(to bottom, #666699 -66%, #cdd0d4 21%);
+}
+.kvadrat2{
+	background-color: white;
+	position: relative;
+	width: 1275px;
+	height: 700px;
+	left: 300px;
+	top: 200px;
+}
+.pryam6{
+	width: 300px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    box-shadow: 3px 3px 7px 0px;
+    border-radius: 5px;
+    top: 100px;
+    background-color: white;
+}
+.pryam7{
+	width: 300px;
+    height: 200px;
+    position: relative;
+    left: 500px;
+    box-shadow: 3px 3px 7px 0px;
+    border-radius: 5px;
+    top: -99px;
+    background-color: white;
+}
+.pryam8{
+	width: 300px;
+	height: 200px;
+	position: relative;
+	left: 872px;
+	box-shadow: 3px 3px 7px 0px;
+	border-radius: 5px;
+	top: -300px;
+	background-color: white;
+}
+.pryam9{
+	width: 300px;
+	height: 200px;
+	position: relative;
+	left: 100px;
+	box-shadow: 3px 3px 7px 0px;
+	border-radius: 5px;
+	top: -200px;
+	background-color: white;
+}
+.pryam10{
+	width: 300px;
+	height: 200px;
+	position: relative;
+	left: 500px;
+	box-shadow: 3px 3px 7px 0px;
+	border-radius: 5px;
+	top: -400px;
+	background-color: white;
+}
+#spr2{
+	position: relative;
+left: 400px;
+font-size: 30px;
+top: 300px;
+z-index: 2;
+}
+.pryam6:hover{
+	box-shadow: 3px 3px 10px 0px;
+	background: linear-gradient(to bottom, #666699 -66%, #cdd0d4 21%);
+}
+.pryam7:hover{
+	box-shadow: 3px 3px 10px 0px;
+	background: linear-gradient(to bottom, #666699 -66%, #cdd0d4 21%);
+}
+.pryam8:hover{
+	box-shadow: 3px 3px 10px 0px;
+	background: linear-gradient(to bottom, #666699 -66%, #cdd0d4 21%);}
+.pryam9:hover{
+	box-shadow: 3px 3px 10px 0px;
+	background: linear-gradient(to bottom, #666699 -66%, #cdd0d4 21%);
+}
+.pryam10:hover{
+	box-shadow: 3px 3px 10px 0px;
+	background: linear-gradient(to bottom, #666699 -66%, #cdd0d4 21%);
+}
+#but1{
+	position: absolute;
+width: 75px;
+height: 50px;
+top: 150px;
+border-color: aqua;
+border-radius: 5px;
+}
+#but2{
+	position: absolute;
+width: 75px;
+height: 50px;
+top: 150px;
+border-color: aqua;
+border-radius: 5px;
+}
+#but3{
+	position: absolute;
+
+width: 75px;
+height: 50px;
+top: 150px;
+border-color: aqua;
+border-radius: 5px;
+}
+#but4{
+	position: absolute;
+width: 75px;
+height: 50px;
+top: 150px;
+border-color: aqua;
+border-radius: 5px;
+}
+#but5{
+	position: absolute;
+width: 75px;
+height: 50px;
+top: 150px;
+border-color: aqua;
+border-radius: 5px;
+}
+#but6{
+	position: absolute;
+width: 75px;
+height: 50px;
+top: 150px;
+border-color: aqua;
+border-radius: 5px;
+}
+#but7{
+	position: absolute;
+width: 75px;
+height: 50px;
+top: 150px;
+border-color: aqua;
+border-radius: 5px;
+}
+#but8{
+	position: absolute;
+width: 75px;
+height: 50px;
+top: 150px;
+border-color: aqua;
+border-radius: 5px;
+}
+#but9{
+	position: absolute;
+width: 75px;
+height: 50px;
+top: 150px;
+border-color: aqua;
+border-radius: 5px;
+}
+#but10{
+	position: absolute;
+width: 75px;
+height: 50px;
+top: 150px;
+border-color: aqua;
+border-radius: 5px;
+}
